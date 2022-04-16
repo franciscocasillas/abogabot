@@ -1,5 +1,5 @@
 # abogabot
-An app that allows a client to view the status of a legal procedure managed by his/her law firm and all the related information. 
+Proposal for an app that allows a client to view the status of a legal procedure managed by his/her law firm and all the related information. 
 
 The app also allows the law firm to require documents and payments from the client whenever necessary.
 
